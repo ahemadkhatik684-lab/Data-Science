@@ -1,2 +1,2 @@
 # Data-Science
-This is my data Scince project
+This is my data Scince project.
